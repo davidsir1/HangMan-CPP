@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1666909699 source:/home/Davi/Documentos/Programming/Projetos/JogoDaForca/main.cpp
+	<iostream>
+	"menu.hpp"
+
+1666909667 /home/Davi/Documentos/Programming/Projetos/JogoDaForca/game.hpp
+	"files.hpp"
+	<vector>
+
+1666909640 /home/Davi/Documentos/Programming/Projetos/JogoDaForca/files.hpp
+	<fstream>
+	<vector>
+	<random>
+
+1666909120 /home/Davi/Documentos/Programming/Projetos/JogoDaForca/menu.hpp
+	"game.hpp"
+	"files.hpp"
+
