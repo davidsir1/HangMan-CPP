@@ -53,7 +53,7 @@ void File::addWordToFile(){
    verifyWordInFile(u_word);
 }
 
-// Verifica se essa palavra já está presente no arquivo
+// Checks to see if this word is already present in the file
 void File::verifyWordInFile(std::string t_word){
    file.open("words.txt", fstream::in);
 
