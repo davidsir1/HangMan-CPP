@@ -7,4 +7,5 @@ You can edit the project using the Code::Blocks IDE. Just click on "*JogoDaForca
 When compiling, put the compiler version **GCC 10.2.1**. If you put a version below that, it is not guaranteed to work
 
 ### Installation
-`git`
+Put this command in the terminal:
+`git clone https://github.com/davidsir1/HangMan-CPP`
