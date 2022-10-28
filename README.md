@@ -1,6 +1,6 @@
 # HangMan-CPP
 
-A single hangman game made in C++.
+A simple hangman terminal-game made in C++.
 
 You can edit the project using the Code::Blocks IDE. Just click on "*JogoDaForca.cpb*" to open the Code::Blocks window.
 
