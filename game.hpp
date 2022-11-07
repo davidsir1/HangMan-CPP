@@ -40,7 +40,7 @@ void Game::game(){
    do{
       system("clear");
       drawHangMan();
-//      std::cout << "Palavra: ";
+//      std::cout << "Word: ";
 //      for(auto i = 0; i<word.length(); i++){
 //         std::cout << h_word[i];
 //      }
